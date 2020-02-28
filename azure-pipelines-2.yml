@@ -12,10 +12,10 @@ variables:
   azureSubscription: '8f7cd765-4289-4143-9d91-6ab0e08d4de2'
   
   # Web app name
-  webAppName: ''
+  webAppName: 'capstone'
 
   # Environment name
-  environmentName: ''
+  environmentName: 'ubuntu'
   
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
